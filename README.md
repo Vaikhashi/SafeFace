@@ -1,30 +1,5 @@
-# 🔐 SafeFace (🚧 Coming Soon)
+# SafeFace
 
-**SafeFace** is a machine learning-based platform focused on identifying and reporting image-based abuse and inappropriate content to promote digital safety and well-being.
+An idea I'm researching: a tool that helps people report image-based abuse, for example when their photos are shared without consent. It would flag inappropriate images and give moderators a simple dashboard.
 
----
-
-## 🎯 Features (Planned)
-- Image analysis using AI/ML for detecting NSFW content
-- User-friendly report submission portal
-- Admin dashboard for moderation
-- Future integration with image hash-matching databases
-
----
-
-## 🧠 Tech Stack
-- **Python**, Flask, NudeNet/NSFW detection models
-- **Firebase** or PostgreSQL for backend storage
-- **Frontend**: TailwindCSS, JS
-
----
-
-## 🚀 Status
-This project is in the research and early design phase. Stay tuned!
-
----
-
-## 👩‍💻 Developer
-**Vaikhashi A**  
-Python Dev | AI/ML Honors | Passionate about ethical tech  
-[LinkedIn](https://linkedin.com/in/vaikhashi-a-7ab540237)
+I'm still reading about the problem and existing tools before writing code.
